@@ -1,3 +1,3 @@
 # AKCache
 
-A description of this package.
+A swift wrapper class around NSCache.
